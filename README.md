@@ -1,6 +1,5 @@
 # Kotlin
- ExercÍcios e funcionalidades:
- Neste repositório apresento alguns exercícios desenvolvidos utilizando a linguagem Kotlin e 
+ ExercÍcios e funcionalidades, neste repositório apresento alguns exercícios desenvolvidos utilizando a linguagem Kotlin e 
  sua integração com as funcionalides do Java como: Coleções, entrada de valores através da classe Scanner dentre outras.
  
  # Direitos de uso
