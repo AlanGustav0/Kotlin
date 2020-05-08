@@ -35,8 +35,8 @@ fun main() {
     for (index in 0..4) {
         sales_total = amount[index] * price[index] //variável que receberá o total de vendas
         print(
-            "Quantidade vendida do ${index + 1}º produto: ${amount[index]}  Valor do ${index + 1}º produto: ${price[index]} \n " +
-                    "Total geral das vendas: R$ %.2f \n".format(sales_total)
+                "Quantidade vendida do ${index + 1}º produto: ${amount[index]}  Valor do ${index + 1}º produto: ${price[index]} \n " +
+                        "Total geral das vendas: R$ %.2f \n".format(sales_total)
         )
         grand_total += sales_total //variável que receberá o total de vendas
     }
@@ -44,9 +44,9 @@ fun main() {
 
     //Mensagem final mostrando o Total de Vendas e Valor da Comissão
     print(
-        "Valor total de vendas R$ %.2f: ".format(grand_total) + "\n Valor total da comissão: R$ %.2f".format(
-            commission
-        )
+            "Valor total de vendas R$ %.2f: ".format(grand_total) + "\n Valor total da comissão: R$ %.2f".format(
+                    commission
+            )
     )
 
 }
