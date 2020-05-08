@@ -9,7 +9,6 @@ Programador: Alan Gustavo
 Data: 08/05/2020
  */
 
-
 import java.util.Scanner
 
 fun main() {
